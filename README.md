@@ -1,3 +1,3 @@
-# blogger
+# Blogger
 
-Ruby on Rails project for the Odin Project.
+Ruby on Rails project for The Odin Project.
